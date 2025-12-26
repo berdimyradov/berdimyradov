@@ -21,5 +21,5 @@
 - 💻 HTML, CSS, JS
 
 ---
-Learn more about me by clicking [here](https://linktr.ee/berdimyradov)
+Learn more about me by clicking [here](https://www.berdimyradov.com/)
 
