@@ -4,7 +4,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=berdimyradov&show_icons=true&rank_icon=github&theme=dark"
+    srcset="http://github-readme-stats-pearl-gamma-77.vercel.app/api?username=berdimyradov&show_icons=true&rank_icon=github&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
