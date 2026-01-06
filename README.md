@@ -1,6 +1,6 @@
 ## Hi there, I'm Kerim! 👋
 
-### Software designer, creator, and amateur actor.
+Software designer, creator, and amateur actor.
 
 <!-- ### Connect with me:
 
