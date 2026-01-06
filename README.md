@@ -46,5 +46,3 @@ Learn more about me by clicking [here](https://www.berdimyradov.com/)
   </picture>
 
 </details>
-
----
