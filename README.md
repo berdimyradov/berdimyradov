@@ -8,10 +8,10 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=berdimyradov&show_icons=true&rank_icon=github&theme=graywhite"
+    srcset="http://github-readme-stats-pearl-gamma-77.vercel.app/api?username=berdimyradov&show_icons=true&rank_icon=github&theme=graywhite"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=berdimyradov&show_icons=true&rank_icon=github" />
+  <img src="http://github-readme-stats-pearl-gamma-77.vercel.app/api?username=berdimyradov&show_icons=true&rank_icon=github" />
 </picture>
 
 ## Skills and Experience
