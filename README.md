@@ -2,6 +2,8 @@
 
 Software designer, creator, and amateur actor.
 
+Learn more about me by clicking [here](https://www.berdimyradov.com/)
+
 <!-- ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
@@ -46,5 +48,3 @@ Software designer, creator, and amateur actor.
 </details>
 
 ---
-
-Learn more about me by clicking [here](https://www.berdimyradov.com/)
